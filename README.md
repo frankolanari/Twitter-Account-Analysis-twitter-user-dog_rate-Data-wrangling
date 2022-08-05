@@ -16,4 +16,4 @@ I gathered the data from three sources, of which I have listed below;
 
 The data gathered were loaded in seperate dataframes and assessed visually and programatically for quality and tidyness issues.
 
-_**You Can find more detailed information regarding this project in the 'project report' I attached in this repository.
+**_You Can find more detailed information regarding this project in the 'project report' I attached in this repository_**
